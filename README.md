@@ -1,4 +1,4 @@
-# Quran Viewer: Ayah-wise Display with Translation & Audio
+# Quran Viewer: Ayah-wise Display with Translation
 
 ## Overview
 
