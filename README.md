@@ -31,7 +31,7 @@ quran-app/
 ├── css/
 │   └── style.css             # Stylesheet for the app
 ├── js/
-│   ├── model.js              # Model: Fetches surah data and audio
+│   ├── model.js              # Model: Fetches surah data
 │   ├── view.js               # View: Renders surah content to the UI
 │   └── controller.js         # Controller: Handles the app's logic and user interaction
 ├── index.html                # Main HTML file to load the app
@@ -44,7 +44,7 @@ quran-app/
 ### Prerequisites
 
 - A modern web browser (Chrome, Firefox, Safari, Edge).
-- An internet connection (for fetching the surah data and audio files from the API).
+- An internet connection (for fetching the surah data from the API).
 
 ### Steps to Run
 
@@ -136,6 +136,4 @@ If you'd like to contribute to this project, feel free to fork the repository an
 ## Acknowledgements
 
 - Thanks to the **Al-Quran API** for providing free access to Quranic data.
-- Thanks to the **Quranic reciters** whose audio files are used in this project.
-
 ---
