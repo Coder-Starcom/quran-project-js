@@ -1,5 +1,7 @@
 # Quran Viewer: Ayah-wise Display with Translation
 
+Demo: https://quran-js-project-v1.netlify.app/
+
 ## Overview
 
 This project is a simple Quran viewer that displays each **ayah** (verse) of a surah along with its translation. It uses **HTML**, **CSS**, and **JavaScript (MVC architecture)** for displaying Quranic verses dynamically, along with API integration for fetching surah data, translations.
